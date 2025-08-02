@@ -8,3 +8,6 @@ Creación de patrones generativos interactivos en la web
 
 ✅ 100% en el navegador: Sin dependencias de servidor.
 
+SketchComponent v1
+
+<img width="550" height="400" alt="Captura de pantalla 2025-08-02 180342" src="https://github.com/user-attachments/assets/84817bd1-1470-4983-b351-f5a6ec123190" />
